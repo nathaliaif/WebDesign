@@ -1,0 +1,30 @@
+﻿body {
+}
+
+h2{
+    margin-top: 0px;
+    color: #852626;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+h3{
+    color: #103679;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.resultados{
+    color: #0a224d;
+    border: 1px dotted #656565;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.valores{
+    color: #852626;
+    width: 300px;
+    font-family: Arial;
+    font-size: 25px;
+    padding: 5px;
+}
